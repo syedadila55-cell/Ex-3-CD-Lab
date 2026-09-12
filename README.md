@@ -99,7 +99,9 @@ int yywrap()
 }
 ~~~
 # OUTPUT
-<img width="954" height="738" alt="Screenshot 2026-08-30 162614" src="https://github.com/user-attachments/assets/ad3c5541-b85f-4411-b700-3529ccf41310" />
+
+<img width="1240" height="1269" alt="WhatsApp Image 2026-09-12 at 10 07 33 AM" src="https://github.com/user-attachments/assets/a387627d-9903-4878-9fe9-5984dc21f908" />
+
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
